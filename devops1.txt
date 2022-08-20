@@ -1,1 +1,3 @@
-Hi this session about DevOps tutorials.
+Hi This session about DevOps tutorials.
+
+Adding a new line.
